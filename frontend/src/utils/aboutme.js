@@ -2,10 +2,10 @@
 
 const aboutMe = {
   basic: {
-    name: "홍길동",
+    name: "조다니엘",
     age: 29,
     location: "서울, 대한민국",
-    mbti: "INTJ",
+    mbti: "INTP",
   },
   skills: [
     "JavaScript (ES6+)",
